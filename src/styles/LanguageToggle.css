@@ -1,0 +1,35 @@
+.language-toggle {
+  position: fixed;
+  top: 1.5rem;
+  right: 1.5rem;
+  z-index: 100;
+  padding: 0.6rem 1.2rem;
+  background: rgba(139, 69, 19, 0.9);
+  color: white;
+  border: 1px solid rgba(218, 165, 32, 0.5);
+  border-radius: 2rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(8px);
+}
+
+.language-toggle:hover {
+  background: rgba(139, 69, 19, 1);
+  border-color: rgba(218, 165, 32, 1);
+  transform: scale(1.05);
+}
+
+.language-toggle:active {
+  transform: scale(0.98);
+}
+
+@media (max-width: 768px) {
+  .language-toggle {
+    top: 1rem;
+    right: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+  }
+}
