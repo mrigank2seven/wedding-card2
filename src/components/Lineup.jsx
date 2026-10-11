@@ -45,15 +45,6 @@ export function Lineup() {
                   </p>
                   <p className="mt-2 text-sm text-muted">{event.venue}</p>
                   <p className="mt-3 text-sm leading-6 text-ink/80">{t.events[event.id]?.note || event.note}</p>
-                  <a
-                    href={event.mapsUrl}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="mt-4 inline-flex min-h-11 items-center gap-2 text-sm font-medium text-accent-deep"
-                  >
-                    <Icon name="place" className="h-5 w-5" />
-                    {t.lineup.mapsLabel}
-                  </a>
                 </article>
               </li>
             );

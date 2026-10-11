@@ -60,7 +60,6 @@ export const site = {
   lineup: {
     eyebrow: "The celebrations",
     heading: "Event line-up",
-    mapsLabel: "Open in Google Maps",
   },
   events: [
     {
@@ -68,20 +67,18 @@ export const site = {
       title: "Mandap Sthapana & Haldi",
       date: "30 November 2026",
       time: "10:00 AM",
-      venue: "Kusum Villa ",
+      venue: "Araji No. 232, Plot No. 15, Sakarpur, Sector-6, Swarn Jayanti Vihar, Kidwai Nagar, Kanpur Nagar, UP – 208011",
       note: "Mandap preparation and Haldi ceremony with family.",
       accent: "marigold",
-      mapsUrl: "https://www.google.com/maps/dir//kale+ki+chakki,+Rajiv+Nagar,+Telibagh,+Lucknow,+Uttar+Pradesh+226002/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x399bfb7d38fca7c5:0xabed487bce912f94?sa=X&ved=1t:707&ictx=111",
     },
     {
       id: "mehendi",
       title: "Mehendi & Tel Pujan",
       date: "01 December 2026",
       time: "7:00 PM",
-      venue: "Kusum Villa",
+      venue: "Araji No. 232, Plot No. 15, Sakarpur, Sector-6, Swarn Jayanti Vihar, Kidwai Nagar, Kanpur Nagar, UP – 208011",
       note: "Mehendi celebration and ceremonial oil ritual.",
       accent: "emerald",
-      mapsUrl: "https://www.google.com/maps/dir//kale+ki+chakki,+Rajiv+Nagar,+Telibagh,+Lucknow,+Uttar+Pradesh+226002/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x399bfb7d38fca7c5:0xabed487bce912f94?sa=X&ved=1t:707&ictx=111",
     },
     {
       id: "wedding",
@@ -91,17 +88,15 @@ export const site = {
       venue: "Mandap at The Maharaja Inn",
       note: "The sacred wedding ceremony and pheras.",
       accent: "sapphire",
-      mapsUrl: "https://maps.google.com/maps?vet=10CAAQoqAOahcKEwjgrdLU5ouXAxUAAAAAHQAAAAAQCw..i&aep=42&amc=1&rlz=1C5OZZY_en&udm=50&mstk=AUtExfB8bQrUAH_881bhCovHf3lkplUdmkLVA2jk_YBAfIxhk-qB7E1J0ziGb5JIzfyRhgfQVuC_ghkeQoR-eJgDNd7eJTePHa55AYE8pzQFUk1pWQiwo3aI2uox3UbMQqjD2QvkKAOmIRAn3hFWIuNCOa3DT5Je6uF-GWPY5Q9rmhhlrka4N6TQ1n1itoL8HIM8xWCLo37yfmZr19Ase3kyDauv1HbMb2pcOJnilexO9UYh7cnb4RM4TxyHq86zqx_zWRrqeFIg4XcuCFsOYq4PehkO6nWrVlPjkK_RggbU1aEkmbWKc9mWnZKU4flKuJ7IT-Qxc5X9USEP5Q&pvq=Cg0vZy8xMWtwcHl5OThiEhwQARoHCOoPEAoYBCABKAEwAjgKkAEBoAEAqAEBYjwSOhI4Cg5ob3RlbCBleHRlcmlvcgoLaG90ZWwgbG9iYnkKCmhvdGVsIHJvb20KA2JlZAoIYmF0aHJvb22AAQKQAQI&fvr=1&cs=1&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KQ3bZXyQ-5s5MUW8ZqU-WruZ&daddr=HN+-+PH11,+opp.+Allen+House+Public+School,+Vrindavan+Yojna-1,+Gopeshkunj,+Sec.+6c,+Vrindavan+Colony,+Lucknow,+Uttar+Pradesh+226029",
     },
     {
       id: "farewell",
-      title: "Bride's Farewell",
+      title: "Bride's Homecoming",
       date: "03 December 2026",
       time: "4:00 AM",
-      venue: "Kusum Villa",
+      venue: "Araji No. 232, Plot No. 15, Sakarpur, Sector-6, Swarn Jayanti Vihar, Kidwai Nagar, Kanpur Nagar, UP – 208011",
       note: "Bidaai ceremony - a celebration of new beginnings.",
       accent: "ruby",
-      mapsUrl: "https://www.google.com/maps/dir//kale+ki+chakki,+Rajiv+Nagar,+Telibagh,+Lucknow,+Uttar+Pradesh+226002/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x399bfb7d38fca7c5:0xabed487bce912f94?sa=X&ved=1t:707&ictx=111",
     },
   ],
   venue: {
@@ -115,13 +110,6 @@ export const site = {
     ],
     directions:
       " It is approximately a 15 to 20-minute drive (around 7.5 to 8 km) from Chaudhary Charan Singh International Airport (LKO). Rideshares can easily pull up right to the front gate for pick-ups and drop-offs.",
-    mapsCta: "Open in Google Maps",
-    mapsUrl: "https://maps.google.com/maps?vet=10CAAQoqAOahcKEwjgrdLU5ouXAxUAAAAAHQAAAAAQCw..i&aep=42&amc=1&rlz=1C5OZZY_en&udm=50&mstk=AUtExfB8bQrUAH_881bhCovHf3lkplUdmkLVA2jk_YBAfIxhk-qB7E1J0ziGb5JIzfyRhgfQVuC_ghkeQoR-eJgDNd7eJTePHa55AYE8pzQFUk1pWQiwo3aI2uox3UbMQqjD2QvkKAOmIRAn3hFWIuNCOa3DT5Je6uF-GWPY5Q9rmhhlrka4N6TQ1n1itoL8HIM8xWCLo37yfmZr19Ase3kyDauv1HbMb2pcOJnilexO9UYh7cnb4RM4TxyHq86zqx_zWRrqeFIg4XcuCFsOYq4PehkO6nWrVlPjkK_RggbU1aEkmbWKc9mWnZKU4flKuJ7IT-Qxc5X9USEP5Q&pvq=Cg0vZy8xMWtwcHl5OThiEhwQARoHCOoPEAoYBCABKAEwAjgKkAEBoAEAqAEBYjwSOhI4Cg5ob3RlbCBleHRlcmlvcgoLaG90ZWwgbG9iYnkKCmhvdGVsIHJvb20KA2JlZAoIYmF0aHJvb22AAQKQAQI&fvr=1&cs=1&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KQ3bZXyQ-5s5MUW8ZqU-WruZ&daddr=HN+-+PH11,+opp.+Allen+House+Public+School,+Vrindavan+Yojna-1,+Gopeshkunj,+Sec.+6c,+Vrindavan+Colony,+Lucknow,+Uttar+Pradesh+226029",
-    loadMapLabel: "Load the map",
-    mapTitle: "Map of The Maharaja Inn, Lucknow",
-    embedUrl:
-      "https://maps.google.com/maps?vet=10CAAQoqAOahcKEwjgrdLU5ouXAxUAAAAAHQAAAAAQCw..i&aep=42&amc=1&rlz=1C5OZZY_en&udm=50&mstk=AUtExfB8bQrUAH_881bhCovHf3lkplUdmkLVA2jk_YBAfIxhk-qB7E1J0ziGb5JIzfyRhgfQVuC_ghkeQoR-eJgDNd7eJTePHa55AYE8pzQFUk1pWQiwo3aI2uox3UbMQqjD2QvkKAOmIRAn3hFWIuNCOa3DT5Je6uF-GWPY5Q9rmhhlrka4N6TQ1n1itoL8HIM8xWCLo37yfmZr19Ase3kyDauv1HbMb2pcOJnilexO9UYh7cnb4RM4TxyHq86zqx_zWRrqeFIg4XcuCFsOYq4PehkO6nWrVlPjkK_RggbU1aEkmbWKc9mWnZKU4flKuJ7IT-Qxc5X9USEP5Q&pvq=Cg0vZy8xMWtwcHl5OThiEhwQARoHCOoPEAoYBCABKAEwAjgKkAEBoAEAqAEBYjwSOhI4Cg5ob3RlbCBleHRlcmlvcgoLaG90ZWwgbG9iYnkKCmhvdGVsIHJvb20KA2JlZAoIYmF0aHJvb22AAQKQAQI&fvr=1&cs=1&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KQ3bZXyQ-5s5MUW8ZqU-WruZ&daddr=HN+-+PH11,+opp.+Allen+House+Public+School,+Vrindavan+Yojna-1,+Gopeshkunj,+Sec.+6c,+Vrindavan+Colony,+Lucknow,+Uttar+Pradesh+226029",
-    facadeCaption: "Tap to load Google Maps. The map is not loaded until you ask, so the page stays light.",
   },
   gallery: {
     eyebrow: "A few frames",

@@ -28,7 +28,6 @@ export const translations = {
     lineup: {
       eyebrow: "The celebrations",
       heading: "Event line-up",
-      mapsLabel: "Open in Google Maps",
     },
     events: {
       mandap: {
@@ -44,7 +43,7 @@ export const translations = {
         note: "The sacred wedding ceremony and pheras.",
       },
       farewell: {
-        title: "Bride's Farewell",
+        title: "Bride's Homecoming",
         note: "Bidaai ceremony - a celebration of new beginnings.",
       },
     },
@@ -54,9 +53,6 @@ export const translations = {
       name: "The Maharaja Inn",
       directions:
         "It is approximately a 15 to 20-minute drive (around 7.5 to 8 km) from Chaudhary Charan Singh International Airport (LKO). Rideshares can easily pull up right to the front gate for pick-ups and drop-offs.",
-      mapsCta: "Open in Google Maps",
-      loadMapLabel: "Load the map",
-      mapTitle: "Map of The Maharaja Inn, Lucknow",
     },
     gallery: {
       eyebrow: "A few frames",
@@ -108,7 +104,6 @@ export const translations = {
     lineup: {
       eyebrow: "समारोह",
       heading: "कार्यक्रम की सूची",
-      mapsLabel: "गूगल मैप्स में खोलें",
     },
     events: {
       mandap: {
@@ -124,7 +119,7 @@ export const translations = {
         note: "पवित्र विवाह समारोह और फेरे।",
       },
       farewell: {
-        title: "दुल्हन की विदाई",
+        title: "दुल्हन का स्वागत",
         note: "विदाई समारोह - नई शुरुआत का जश्न।",
       },
     },
@@ -134,9 +129,6 @@ export const translations = {
       name: "द महाराजा इन",
       directions:
         "यह चौधरी चरण सिंह अंतर्राष्ट्रीय हवाई अड्डे (लखनऊ) से लगभग 15 से 20 मिनट की ड्राइव है। राइडशेयर सीधे मुख्य द्वार पर पहुँच सकते हैं।",
-      mapsCta: "गूगल मैप्स में खोलें",
-      loadMapLabel: "नक्शा लोड करें",
-      mapTitle: "द महाराजा इन, लखनऊ का नक्शा",
     },
     gallery: {
       eyebrow: "कुछ फ्रेम",
